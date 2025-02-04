@@ -23,7 +23,7 @@ Technologies:</br>
 -Charts- Recharts Library</br>
 -Date management - date-fns Library</br>
 
-See some sneak peeks here: ![ScreenShot]()
+See some sneak peeks here: ![ScreenShot](https://github.com/adrianapopd/the-wild-oasis/blob/main/the%20wild%20oasis%20da%201.png)
 See some sneak peeks here: ![ScreenShot]()
 
 
