@@ -23,6 +23,9 @@ Technologies:</br>
 -Charts- Recharts Library</br>
 -Date management - date-fns Library</br>
 
+See some sneak peeks here: ![ScreenShot]()
+See some sneak peeks here: ![ScreenShot]()
+
 
 
 
